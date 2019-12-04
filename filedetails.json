@@ -1,4 +1,6 @@
-# Automatically generated OpenVPN client config file
+{
+"ovpn_file":[
+  {"id":0,"file":"# Automatically generated OpenVPN client config file
 # Generated on Wed Dec  4 11:33:20 2019 by WhitesmokeFrilly-VM
 
 # Default Cipher
@@ -205,4 +207,5 @@ dbcbf347eccef7896b72d128dca60f70
 ## TSjBPZNrpXwspoHg6mndqpap/9aOBz6Mian8Hw1xxB3jAdongXLcReP9fOG2ruD8
 ## OMbnN46Nq5YWE7wqXygszfd47Z9xf2Nrd5DBdA9haJQkir9w1BFPJe43rijj9P3G
 ## z4iLQOaM+hYsl+TAt4Mfi2RIu1CQaGIr7g6uXw==
-## -----END CERTIFICATE-----
+## -----END CERTIFICATE-----"}]
+}
